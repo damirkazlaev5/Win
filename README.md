@@ -57,7 +57,7 @@
           <ul>
             <li><a href="" target="_blank">RuTube</a></li>
           </ul>
-          <button class="btn2" onclick="window.open('https://maps.google.com/?q=Москва','_blank')">На карте</button>
+  
         </div>
         <div id="news" class="tc" style="display:none">
           <h1>Новости</h1>
